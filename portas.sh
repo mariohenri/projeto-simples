@@ -1,4 +1,4 @@
-#!/bin;sh
+#!/bin/sh
 
 
 echo "Lista de portas 80 no netstat"
